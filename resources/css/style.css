@@ -1,0 +1,35 @@
+html {
+	background-color: black;
+	font-family: Verdana;
+	text-align: center;
+}
+
+h1 {
+	font-weight: Normal;
+	font-size: 50px;
+	color: white;
+}
+
+.dllink {
+	font-size: 16px;
+}
+
+a:link {
+	color: aquamarine;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+h3 {
+	font-size: 21px;
+	color: gray;
+}
+
+#copyright {
+	text-align: right;
+	color: gray;
+}
